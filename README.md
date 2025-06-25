@@ -27,6 +27,6 @@ Welcome to my GitHub Profile ! I build practical, clean, and purpose-driven proj
 ---
 
 ## 🔗 Connect with Me
-📫 Email: praveen.yourmail@example.com  
-💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com)  
+📫 Email: praveensumathi12@gmail.com  
+💼 LinkedIn: [linkedin.com/in/praveen_sathi](https://www.linkedin.com/in/praveen-sathish-01a49a234/)  
 🌐 Portfolio: Coming soon!
