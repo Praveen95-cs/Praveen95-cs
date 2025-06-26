@@ -30,9 +30,11 @@
 
 ### 🚀 Launch My Portfolio
 
+### 👷 My Webpage is Live!
+
 <p align="center">
   <a href="https://praveen95-cs.github.io/MY-WEBPAGE-/" target="_blank">
-    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" alt="Launch Portfolio" />
+    <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="320" alt="My Portfolio">
   </a>
 </p>
 
