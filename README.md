@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Praveen Sathish!
 
-🎓 Final-Year Computer Science Student  
+🎓 Pre -Final-Year Computer Science Student  
 💻 Passionate Full-Stack Developer | 📱 App Enthusiast | 🤖 Future ML Explorer  
 
 ---
