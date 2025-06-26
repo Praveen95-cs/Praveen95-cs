@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Praveen Sathish</h1>
 <p align="center">
-  <img src="https://i.imgur.com/l66hFbz.gif" width="200"/>
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Working on laptop" />
 </p>
 
 <p align="center">
@@ -28,14 +28,13 @@
 
 ---
 
-### 🌐 Portfolio
+### 🚀 Launch My Portfolio
 
 <p align="center">
   <a href="https://praveen95-cs.github.io/MY-WEBPAGE-/" target="_blank">
-    <img src="https://media.giphy.com/media/3ohs7KViFvXrM3QQFa/giphy.gif" width="320" alt="My Web Portfolio">
+    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" alt="Launch Portfolio" />
   </a>
 </p>
-
 
 ### 📈 GitHub Stats
 
