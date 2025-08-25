@@ -1,26 +1,23 @@
-<h1 align="center">👋 Hey there, I'm Praveen Sathish</h1>
-<p align="center">
- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Working on laptop" />
-</p>
+<h1 align="center">👋 Hey, I'm Praveen Sathish</h1>
 
 <p align="center">
-  💻 Aspiring Software Engineer | 🚀 Tech Enthusiast | 🎯 Future Founder
+💻 Aspiring Software Engineer | 🚀 Tech Enthusiast | 🎯 Future Founder
 </p>
 
 ---
 
 ### 🧑‍🎓 About Me
 
-- 🎓 CSE Undergrad at <strong>Madras Institute of Technology, Anna University</strong>
-- 🌱 Passionate about Full Stack Development, Data Structures & Algorithms, and Cloud Tech
-- 🚀 Currently exploring Azure,Aws,ReactJS, MongoDB, Node.js, and REST APIs
-- 📊 Actively solving coding challenges on LeetCode and HackerRank
-- ✨ Dream: Crack FAANG & build a food-tech startup that changes lives
-- 🗣️ Fun Fact: I love turning ideas into actual working products
+- 🎓 CSE Undergrad at **Madras Institute of Technology, Anna University**  
+- 🌱 Passionate about **Full Stack Development, Data Structures & Algorithms, and Cloud Tech**  
+- 🚀 Currently exploring **Azure, AWS, ReactJS, MongoDB, Node.js, and REST APIs**  
+- 📊 Practicing coding challenges on **LeetCode** and **HackerRank**  
+- ✨ Dream: Crack **FAANG** & build a **food-tech startup**  
+- 🗣️ Fun Fact: I love turning ideas into real working products  
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🔧 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,cpp,python,c,git,github,figma,vscode" />
@@ -28,15 +25,11 @@
 
 ---
 
-### 🚀 Launch My Portfolio
+### 🌐 Portfolio
 
-### 👷 My Webpage is Live!
+- 🚀 [My Personal Website](https://praveen95-cs.github.io/MY-WEBPAGE-/)  
 
-<p align="center">
-  <a href="https://praveen95-cs.github.io/MY-WEBPAGE-/" target="_blank">
-    <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="320" alt="My Portfolio">
-  </a>
-</p>
+---
 
 ### 📈 GitHub Stats
 
@@ -47,38 +40,34 @@
 
 ---
 
-### 📊 Contribution Activity
+### 📚 Competitive Coding
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen95-cs&theme=react-dark&area=true" />
-</p>
-
----
-
-### 📚 Competitive Coding Profiles
-
-- 🟧 LeetCode: [leetcode.com/profile](https://leetcode.com/profile/)
-- 🟩 HackerRank: [hackerrank.com/dashboard](https://www.hackerrank.com/dashboard)
+- 🟧 [LeetCode](https://leetcode.com/profile/)  
+- 🟩 [HackerRank](https://www.hackerrank.com/dashboard)  
 
 ---
 
-### 🌐 Connect with Me
+### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/praveen-sathish-01a49a234/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://praveen95-cs.github.io/MY-WEBPAGE-/"><img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=internet-explorer"></a>
+  <a href="https://www.linkedin.com/in/praveen-sathish-01a49a234/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://praveen95-cs.github.io/MY-WEBPAGE-/">
+    <img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=internet-explorer" />
+  </a>
 </p>
 
 ---
 
 ### 🎯 Goals for 2025
 
-- ✅ Complete 300+ LeetCode problems
-- 🚀 Contribute to 5+ open source projects
-- 🧠 Build 3 full-stack applications
-- 💼 Land a dream internship/job at a top tech firm
+- ✅ Solve **300+ LeetCode problems**  
+- 🚀 Contribute to **5+ open-source projects**  
+- 🧠 Build **3 full-stack applications**  
+- 💼 Land an **internship/job at a top tech firm**  
 
 ---
-
-![](https://komarev.com/ghpvc/?username=Praveen95-cs&label=PROFILE+VIEWS&color=0e75b6&style=flat)
