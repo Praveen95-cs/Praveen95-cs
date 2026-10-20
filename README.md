@@ -1,177 +1,215 @@
-<div align="center">
+ <div align="center">
 
-# Hi, I'm Praveen Sathish 👋
+# Praveen Sathish
 
-### Software Engineer | Full Stack Developer | Problem Solver
+### Aspiring Software Engineer | Full-Stack Developer | AI Enthusiast
 
-I'm a Computer Science undergraduate at **Madras Institute of Technology (MIT), Anna University**, passionate about building scalable software, solving algorithmic problems, and creating technology that addresses real-world challenges.
+Computer Science and Engineering student at **Madras Institute of Technology, Anna University**, interested in building reliable, scalable, and user-focused software solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://praveen95-cs.github.io/MY-WEBPAGE-/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveen%20Sathish-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/praveen-sathish/)
-[![GitHub](https://img.shields.io/badge/GitHub-Praveen95--cs-181717?style=for-the-badge\&logo=github)](https://github.com/Praveen95-cs)
+I enjoy solving algorithmic problems, developing full-stack applications, exploring AI-powered systems, and learning the engineering practices behind production-ready software.
+
+<p>
+<a href="https://praveen95-cs.github.io/MY-WEBPAGE-/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/praveen-sathish/">LinkedIn</a> •
+<a href="https://github.com/Praveen95-cs">GitHub</a>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-* 🎓 Computer Science & Engineering undergraduate at **Madras Institute of Technology (MIT), Anna University**
-* 💡 Passionate about **Software Engineering, Full Stack Development, Artificial Intelligence, and Cloud Computing**
-* 💻 Strong interest in designing scalable applications with clean architecture
-* 📚 Continuously improving my problem-solving skills through **Data Structures & Algorithms**
-* 🚀 Enjoy transforming ideas into production-ready applications
-* 🤝 Open to Software Engineering internships, collaborative projects, and open-source contributions
+- 🎓 Pursuing Computer Science and Engineering at **MIT, Anna University**.
+- 💻 Interested in Software Engineering, Full-Stack Development, Backend Engineering, and AI.
+- 🛠️ Experienced in building academic and personal projects using modern web technologies and AI frameworks.
+- 🧠 Practicing Data Structures and Algorithms to strengthen problem-solving and coding skills.
+- 🏗️ Learning scalable architecture, REST API development, database design, testing, and deployment.
+- 🤝 Open to entry-level Software Engineer roles, internships, collaborative projects, and open-source contributions.
 
----
+## Technical Skills
 
-# 🛠 Tech Stack
-
-### Languages
-
+### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript" alt="Programming languages"/>
 </p>
 
-### Frontend
-
+### Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend technologies"/>
 </p>
 
-### Backend
+- React.js, Next.js 15, React 19
+- TypeScript, JavaScript, HTML5, CSS3
+- Tailwind CSS, Material UI
+- Responsive UI development and component-based architecture
+- React Hooks, state management, API integration, and frontend performance optimization
 
+### Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" alt="Backend technologies"/>
 </p>
 
-### Database
+- Node.js, Express.js, Python, FastAPI, Flask
+- RESTful API design and integration
+- Authentication, JWT, and refresh-token workflows
+- Middleware, error handling, and input validation
+- Backend architecture and asynchronous programming
 
+### Databases & Data Management
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" alt="Databases"/>
 </p>
 
-### Cloud & DevOps
+- PostgreSQL, MySQL, MongoDB, SQLite
+- Firebase Firestore
+- Database schema design, SQL queries, and CRUD operations
+- PostgreSQL/PostGIS for geospatial applications
+- Redis for caching and performance-oriented workflows
 
+### AI, Machine Learning & LLMs
 <p>
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=python,opencv" alt="AI and computer vision"/>
 </p>
 
-### Development Tools
+- LangChain and LangGraph
+- Google Gemini API and prompt engineering
+- Multi-agent AI workflows
+- Computer vision and image processing with OpenCV
+- Machine learning fundamentals, Scikit-learn, Pandas, and anomaly detection
+- AI-powered application integration and structured model outputs
 
+### Cloud, DevOps & Developer Tools
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,jenkins,linux,postman,vscode,vercel,figma" alt="Cloud and development tools"/>
 </p>
 
----
+- Git, GitHub, branching, and version control
+- Docker and containerization fundamentals
+- Microsoft Azure and AWS fundamentals
+- Jenkins and CI/CD concepts
+- Vercel and Render deployment
+- Linux command-line fundamentals
+- Postman for API testing
+- Figma and modern UI prototyping
 
-# 🚀 Featured Projects
-
-## 🍽️ NouraShare
-
-AI-powered hyperlocal food-sharing platform that connects food donors with nearby recipients while minimizing food waste.
-
-**Tech:** Next.js • FastAPI • PostgreSQL • Gemini AI
-
----
-
-## 🤖 AI Ventilator Decision Support System
-
-Multi-agent clinical decision support system that assists healthcare professionals with intelligent ventilator recommendations using AI workflows.
-
-**Tech:** Python • LangGraph • FastAPI • React • PostgreSQL
-
----
-
-## 🛡️ Smart Safety Patrol Platform
-
-A GPS-based monitoring platform designed to improve patrol management through real-time tracking, route verification, and analytics.
-
-**Tech:** React • TypeScript • Node.js • PostgreSQL
+### Core Computer Science
+- **Data Structures & Algorithms:** Arrays, strings, hashing, linked lists, stacks, queues, trees, graphs, recursion, sorting, searching, binary search, sliding window, two pointers, and dynamic programming fundamentals.
+- **Object-Oriented Programming:** Encapsulation, inheritance, polymorphism, and abstraction.
+- **Database Management Systems:** SQL, normalization, indexing fundamentals, transactions, and query optimization concepts.
+- **Operating Systems:** Processes, threads, CPU scheduling, synchronization, deadlocks, and memory management.
+- **Computer Networks:** TCP/IP, HTTP/HTTPS, DNS, IP addressing, and networking fundamentals.
+- **Software Engineering:** SDLC, Agile fundamentals, clean code, testing, debugging, and basic system design.
 
 ---
 
-# 📖 Currently Learning
+## Featured Projects
 
-* Advanced Data Structures & Algorithms
-* System Design
-* Cloud Architecture (Azure & AWS)
-* Backend Engineering
-* RESTful API Design
-* Docker & Deployment
-* Computer Science Fundamentals
+### 1. NouraShare — AI-Powered Hyperlocal Food Sharing
 
----
+A food-sharing platform designed to connect local food donors with nearby recipients, encourage community participation, and help reduce food waste.
 
-# 🏆 Achievements
+**Key features**
+- Hyperlocal food donation and discovery.
+- AI-assisted food information and freshness analysis.
+- Food reservation and donor–recipient coordination.
+- Dual OTP verification and QR-based handover workflows.
 
-* 💻 Active Competitive Programmer
-* 🚀 Participated in Hackathons and Technical Events
-* 📚 Consistently improving problem-solving skills through coding platforms
-* 🌱 Passionate lifelong learner with a strong focus on software engineering
+**Technologies:** Next.js 15, React, FastAPI, PostgreSQL, LangGraph, Google Gemini, OpenCV.
 
----
+### 2. AI-Driven Multi-Agent Ventilator Decision Support System
 
-# 📊 GitHub Analytics
+An AI-powered clinical decision-support prototype designed to organize patient information and support healthcare professionals with structured ventilator-related insights.
 
-<p align="center">
+**Key features**
+- Multi-agent workflow orchestration.
+- Clinical information summarization and severity assessment.
+- Forecasting and prediction workflow integration.
+- API-based communication between the frontend and backend.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveen95-cs&show_icons=true&theme=github_dark&hide_border=true"/>
+**Technologies:** Python, LangGraph, BioMistral-7B, FastAPI, React, PostgreSQL.
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen95-cs&theme=github-dark&hide_border=true"/>
+*Designed as a decision-support prototype, not a replacement for clinical judgment.*
 
-</p>
+### 3. SingaPen — Smart Safety Patrol & Coverage Monitoring
 
-<p align="center">
+A real-time patrol monitoring platform concept designed to improve visibility into patrol activity, route coverage, and operational progress.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen95-cs&layout=compact&theme=github_dark&hide_border=true"/>
+**Key features**
+- GPS-based location tracking.
+- Route and road coverage verification.
+- Real-time event updates.
+- Geospatial data management and monitoring dashboards.
 
-</p>
+**Technologies:** React, TypeScript, Redux Toolkit, Material UI, React Query, Node.js, Socket.IO, PostgreSQL, PostGIS.
 
----
+### 4. Machine Learning-Based Network Traffic Classification & Anomaly Detection
 
-# 💻 Coding Profiles
+A machine learning project focused on analyzing network traffic and identifying potentially anomalous behavior.
 
-* 🔸 LeetCode
-* 🔹 HackerRank
-* 🔸 GitHub
+**Key features**
+- Network traffic analysis using PCAP data.
+- Feature extraction and preprocessing.
+- Classification using Random Forest and SVM.
+- Interactive results and visualizations.
 
----
-
-# 🌱 2026 Goals
-
-* Solve **500+ LeetCode** problems
-* Build **production-ready full-stack applications**
-* Contribute to impactful open-source projects
-* Strengthen system design and backend engineering skills
-* Secure a Software Engineering role where I can build scalable products and continue learning
+**Technologies:** Python, Wireshark, Scapy, Pandas, Scikit-learn, Streamlit.
 
 ---
 
-# 🤝 Let's Connect
+## Currently Learning
 
-<p align="center">
+- Advanced Data Structures and Algorithms
+- Low-Level and High-Level System Design
+- Backend scalability and distributed systems fundamentals
+- Database performance and query optimization
+- Automated testing and CI/CD practices
+- Cloud deployment, observability, and application security
+- Technical communication and software engineering interview preparation
 
-<a href="https://www.linkedin.com/in/praveen-sathish/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+---
 
-<a href="https://praveen95-cs.github.io/MY-WEBPAGE-/">
-<img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome"/>
-</a>
+## GitHub Statistics
 
-<a href="https://github.com/Praveen95-cs">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<div align="center">
 
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Praveen95-cs&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen95-cs&theme=github-dark&hide_border=true" alt="GitHub contribution streak"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen95-cs&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages"/>
+
+</div>
+
+*Statistics are generated by external services and may not always be available or reflect all private repository activity.*
+
+---
+
+## Coding & Developer Profiles
+
+- 💻 [GitHub](https://github.com/Praveen95-cs) — Projects and code
+- 🧩 [LeetCode](https://leetcode.com/u/praveensumathi12/) — Data Structures and Algorithms practice
+- 🌐 [Portfolio](https://praveen95-cs.github.io/MY-WEBPAGE-/) — Projects and professional profile
+- 💼 [LinkedIn](https://www.linkedin.com/in/praveen-sathish/) — Professional networking
+
+---
+
+## Goals
+
+- Strengthen DSA and problem-solving skills.
+- Build and deploy reliable, production-oriented full-stack applications.
+- Improve backend engineering and system design knowledge.
+- Contribute to meaningful open-source projects.
+- Begin my professional career as a Software Engineer and grow through continuous learning.
 
 ---
 
 <div align="center">
 
-### *"Building software that solves real-world problems, one project at a time."*
+### Let's Build Something Meaningful
 
-⭐ If you find my work interesting, feel free to explore my repositories and connect with me.
+*Learning continuously. Solving problems thoughtfully. Building software that matters.*
+
+Feel free to explore my repositories or connect with me for internships, entry-level opportunities, and collaborative projects.
 
 </div>
